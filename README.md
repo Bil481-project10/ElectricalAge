@@ -121,3 +121,5 @@ Some graphics are public domain. These are:
 
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FElectrical-Age%2FElectricalAge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FElectrical-Age%2FElectricalAge?ref=badge_large)
+
+This is made by Deniz
